@@ -107,6 +107,38 @@
     padding: 0 15px 15px;
   }
 
+
+.contact {
+    padding: 40px 20px;
+    background-color: #eee;
+    text-align: center;
+  }
+
+  .contact p {
+    margin: 10px 0;
+  }
+
+  footer {
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 0.9rem;
+  }
+
+  a.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #222;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+
+
+
   footer {
     background-color: #000;
     color: white;
